@@ -2,7 +2,7 @@
 
 A small expansion mod for Kerbal Space Program 1.12.x that adds realistic internal views (IVA) to the Soyuz, Progress, and some Mir/ISS modules from the popular [Tantares](https://github.com/Tantares/Tantares) mod.
 
-> After years without any custom IVAs for Tantares, I decided to create and share my own.
+After years without any custom IVAs for Tantares, I decided to create and share my own.
 
 ## Features
 
@@ -41,10 +41,10 @@ See full list in the forum thread or the `config/` folder.
 
 ## Known Issues
 
-- In FreeIVA mode, Kerbals may clip through some hatches when standing up. This is likely a FreeIVA issue with collider setups. Also hatches may not work properly.
+In FreeIVA mode, Kerbals may clip through some hatches when standing up. This is likely a FreeIVA issue with collider setups. Also hatches may not work properly.
 
 ## License
 
-MIT License.  
+[MIT License](https://opensource.org/license/mit).  
 All rights belong to their respective authors: Tantares (Beale), RPM (JSI), MAS (MOARdV), FreeIVA, ASET, Nertea, Benjee10.
 
