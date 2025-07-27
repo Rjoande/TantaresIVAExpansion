@@ -41,7 +41,8 @@ See full list in the forum thread or the `config/` folder.
 
 ## Known Issues
 
-In FreeIVA mode, Kerbals may clip through some hatches when standing up. This is likely a FreeIVA issue with collider setups. Also hatches may not work properly.
+- ~In FreeIVA mode, Kerbals may clip through some walls when floating.~ [Fixed thanks to **Etma**].
+- Some hatches may not work properly.
 
 ## License
 
