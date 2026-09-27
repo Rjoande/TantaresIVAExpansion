@@ -1,0 +1,27 @@
+# File temporanei e di backup
+*.tmp
+*.bak
+*.swp
+*~
+
+# File di sistema (Windows/macOS)
+Thumbs.db
+.DS_Store
+
+# Archivi compressi (gli zip di release vanno nelle GitHub Releases)
+*.rar
+*.7z
+*.zip
+
+# README incluso negli zip di release (quello del repo è README.md)
+README_release.md
+/screenshot/*
+
+# File generati da text editor (es. Notepad++, VSCode)
+*.log
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# CKAN metadata locali (se li generi)
+*.ckan
