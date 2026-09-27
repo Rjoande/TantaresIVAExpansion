@@ -1,3 +1,11 @@
+# Materiale di sviluppo interno (hub di Claude Code, note, worklog):
+# non fa parte della mod, resta solo in locale.
+.claude
+CLAUDE.md
+notes/
+screenshot/
+UnityProject/
+
 # File temporanei e di backup
 *.tmp
 *.bak
@@ -12,10 +20,6 @@ Thumbs.db
 *.rar
 *.7z
 *.zip
-
-# README incluso negli zip di release (quello del repo è README.md)
-README_release.md
-/screenshot/*
 
 # File generati da text editor (es. Notepad++, VSCode)
 *.log
