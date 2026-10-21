@@ -9,7 +9,7 @@ After years without any custom IVAs for Tantares, I decided to create and share 
 - Realistic, Reviva-switchable IVAs for Soyuz (T, TM, TMA, M, MS)
 - IVA for Soyuz LOK (Virgo)
 - Station module IVAs loosely inspired by real interiors
-- Full support for RPM and MAS
+- Working controls powered by MAS
 - Compatible with FreeIVA
 
 ## Supported parts
@@ -21,14 +21,15 @@ See full list in the forum thread or the `config/` folder.
 **Required:**
 - [Tantares](https://github.com/Tantares/Tantares/releases)
 - [ASET Props](https://github.com/StoneBlue/ASET-Consolidated-Avionics/releases)
-- [Raster Prop Monitor](https://github.com/FirstPersonKSP/RasterPropMonitor/releases)
 - [MOARdV Avionics System](https://github.com/FirstPersonKSP/AvionicsSystems/releases)
 - [Free IVA](https://github.com/FirstPersonKSP/FreeIva/releases)
 - [RevIVA](https://github.com/FirstPersonKSP/reviva/releases)
 - [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases)
 - [Module Manager](https://github.com/sarbian/ModuleManager/releases)
 - [Near Future Props](https://github.com/post-kerbin-mining-corporation/NearFutureProps/releases)
-- [HabTech Props](https://github.com/benjee10/HabTechProps/releases)
+
+**Optional:**
+- [Raster Prop Monitor](https://github.com/FirstPersonKSP/RasterPropMonitor/releases) (only for the labels on the stowage bags)
 
 **Optional (for Mir/ROS modules):**
 - [HabTech2](https://github.com/benjee10/HabTech2/releases)

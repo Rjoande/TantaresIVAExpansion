@@ -7,12 +7,14 @@ of the Tantares mod, for Kerbal Space Program 1.12.x.
 - Reviva-switchable IVAs for Soyuz (T, TM, TMA, M, MS)
 - IVA for Soyuz LOK (Virgo)
 - Station module IVAs loosely inspired by real interiors
-- RPM and MAS support, FreeIVA compatible
+- Working controls powered by MAS, FreeIVA compatible
 
 REQUIREMENTS
 ------------
-Tantares, ASET Props, Raster Prop Monitor, MOARdV Avionics Systems, FreeIVA,
-Reviva, B9 Part Switch, Module Manager, Near Future Props, HabTech Props.
+Tantares, ASET Props, MOARdV Avionics Systems, FreeIVA,
+Reviva, B9 Part Switch, Module Manager, Near Future Props.
+
+Optional: Raster Prop Monitor (only for the labels on the stowage bags).
 
 Optional (Mir/ROS modules): HabTech2, Station Parts Expansion Redux (IVAs only).
 
