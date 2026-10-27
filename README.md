@@ -26,7 +26,6 @@ See full list in the forum thread or the `config/` folder.
 - [RevIVA](https://github.com/FirstPersonKSP/reviva/releases)
 - [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases)
 - [Module Manager](https://github.com/sarbian/ModuleManager/releases)
-- [Near Future Props](https://github.com/post-kerbin-mining-corporation/NearFutureProps/releases)
 
 **Optional:**
 - [Raster Prop Monitor](https://github.com/FirstPersonKSP/RasterPropMonitor/releases) (only for the labels on the stowage bags)

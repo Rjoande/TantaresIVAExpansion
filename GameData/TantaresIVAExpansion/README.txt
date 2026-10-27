@@ -12,7 +12,7 @@ of the Tantares mod, for Kerbal Space Program 1.12.x.
 REQUIREMENTS
 ------------
 Tantares, ASET Props, MOARdV Avionics Systems, FreeIVA,
-Reviva, B9 Part Switch, Module Manager, Near Future Props.
+Reviva, B9 Part Switch, Module Manager.
 
 Optional: Raster Prop Monitor (only for the labels on the stowage bags).
 
