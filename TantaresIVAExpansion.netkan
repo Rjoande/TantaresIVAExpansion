@@ -1,7 +1,6 @@
 spec_version: v1.4
 identifier: TantaresIVAExpansion
 name: Tantares IVA Expansion
-abstract: Realistic IVAs for the Tantares Soyuz, Soyuz LOK, Progress and some Mir/ISS modules
 $kref: '#/ckan/github/Rjoande/TantaresIVAExpansion'
 $vref: '#/ckan/ksp-avc'
 license:
