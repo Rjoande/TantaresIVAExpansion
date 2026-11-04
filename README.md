@@ -6,12 +6,11 @@ After years without any custom IVAs for Tantares, I decided to create and share 
 
 ## Features
 
-- Realistic, Reviva-switchable IVAs for Soyuz (T, TM, TMA, M, MS)
+- Realistic, Reviva-switchable IVAs for Soyuz (T/TM, MS)
 - IVA for Soyuz LOK (Virgo)
 - Station module IVAs loosely inspired by real interiors
 - Working controls powered by MAS
 - Compatible with FreeIVA
-- The original Tantares IVAs stay available as the first (default) option of the IVA switch
 
 ## Supported parts
 
@@ -42,8 +41,8 @@ See the full list in the forum thread or in `GameData/TantaresIVAExpansion/patch
 
 ## Known Issues
 
-- ~In FreeIVA mode, Kerbals may clip through some walls when floating.~ [Fixed thanks to **Etma**].
-- ~Some hatches may not work properly.~ [Fixed: the v2 parachute container between capsule and orbital module is now passable in FreeIVA].
+- ~~In FreeIVA mode, Kerbals may clip through some walls when floating.~~ [Fixed thanks to **Etma**].
+- ~~Some hatches may not work properly.~~ [Fixed: the v2 parachute container between capsule and orbital module is now passable in FreeIVA].
 
 ## License
 
