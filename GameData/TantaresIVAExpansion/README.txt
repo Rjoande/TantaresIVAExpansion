@@ -8,6 +8,7 @@ of the Tantares mod, for Kerbal Space Program 1.12.x.
 - IVA for Soyuz LOK (Virgo)
 - Station module IVAs loosely inspired by real interiors
 - Working controls powered by MAS, FreeIVA compatible
+- The original Tantares IVAs stay available in the IVA switch (default)
 
 REQUIREMENTS
 ------------
@@ -29,5 +30,9 @@ Forum:   https://forum.kerbalspaceprogram.com/topic/228073-112x-tantares-iva-exp
 
 LICENSE
 -------
-MIT. All rights belong to their respective authors: Tantares (Beale),
-RPM (JSI), MAS (MOARdV), FreeIVA, ASET, Nertea, Benjee10.
+MIT, except the prop configs in props/TIE_ASET, adapted from ASET Props
+by Alexustas: CC BY-NC-SA 3.0 (see props/TIE_ASET/LICENSE.txt).
+Voltmeter face from RealBattery (MIT).
+Models and props of Tantares (Beale), ASET Props (Alexustas), MAS (MOARdV),
+RPM (JSI), FreeIVA, HabTech2 (Benjee10) and Station Parts Expansion Redux
+(Nertea) are referenced, not included: all rights belong to their authors.
