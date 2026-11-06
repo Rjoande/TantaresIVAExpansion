@@ -27,6 +27,9 @@ See the full list in the forum thread or in `GameData/TantaresIVAExpansion/patch
 - [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases)
 - [Module Manager](https://github.com/sarbian/ModuleManager/releases)
 
+**Optional:**
+- [MechJeb 2](https://github.com/MuMech/MechJeb2/releases) (for the autopilot buttons on the consoles)
+
 **Optional (for Mir/ROS modules):**
 - [HabTech2](https://github.com/benjee10/HabTech2/releases)
 - [Station Parts Expansion Redux (just the IVAs are needed)](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/releases)

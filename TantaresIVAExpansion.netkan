@@ -20,5 +20,6 @@ depends:
   - name: Reviva
   - name: B9PartSwitch
 suggests:
+  - name: MechJeb2
   - name: HabTech2
   - name: StationPartsExpansionRedux-IVAs
