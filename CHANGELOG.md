@@ -27,8 +27,7 @@
 - Proper KSP-AVC version file.
 
 ### Dependencies
-- No longer needed: Near Future Props, HabTech Props.
-- Raster Prop Monitor is now optional (only for the labels of the stowage bags).
+- No longer needed: Near Future Props, HabTech Props, Raster Prop Monitor (the stowage bag labels now come from MAS).
 
 ### License
 - The prop configs in `props/TIE_ASET` are adapted from ASET Props and released under CC BY-NC-SA 3.0; the rest of the mod stays MIT.

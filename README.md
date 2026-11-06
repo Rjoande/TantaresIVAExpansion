@@ -27,9 +27,6 @@ See the full list in the forum thread or in `GameData/TantaresIVAExpansion/patch
 - [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases)
 - [Module Manager](https://github.com/sarbian/ModuleManager/releases)
 
-**Optional:**
-- [Raster Prop Monitor](https://github.com/FirstPersonKSP/RasterPropMonitor/releases) (only for the labels on the stowage bags)
-
 **Optional (for Mir/ROS modules):**
 - [HabTech2](https://github.com/benjee10/HabTech2/releases)
 - [Station Parts Expansion Redux (just the IVAs are needed)](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/releases)
@@ -52,6 +49,6 @@ which are adapted from ASET Props by Alexustas and released under
 
 The voltmeter face is taken from [RealBattery](https://github.com/Rjoande/RealBattery) (MIT).
 This mod references, without including them, models and props from Tantares (Beale), ASET Props (Alexustas),
-MAS (MOARdV), RPM (JSI), FreeIVA, HabTech2 (Benjee10) and Station Parts Expansion Redux (Nertea):
+MAS (MOARdV), FreeIVA, HabTech2 (Benjee10) and Station Parts Expansion Redux (Nertea):
 all rights belong to their respective authors.
 

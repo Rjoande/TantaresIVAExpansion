@@ -20,6 +20,5 @@ depends:
   - name: Reviva
   - name: B9PartSwitch
 suggests:
-  - name: RasterPropMonitor
   - name: HabTech2
   - name: StationPartsExpansionRedux-IVAs
