@@ -1,8 +1,14 @@
 # Changelog
 
+## [Unreleased]
+
+### Tantares and Virgo capsules
+- Cabin bags moved away from the heads of the two side crew members, and made symmetrical.
+- The VZOR forward view is no longer upside down: the hull is now at the top of the screen.
+
 ## 1.0.0
 
-### Soyuz and Soyuz LOK capsules
+### Tantares and Virgo capsules
 - **Sirius** (analog) rebuilt after the Soyuz-T/TM console: system pushbuttons, alarm lamps, counters, Globus, clock and a voltmeter showing a silver-zinc cell.
 - **Neptune** (digital) reworked: working circuit breakers with indicator lamps, limit knobs, warning light panels grouped as on the real spacecraft, reaction wheel and precision controls, cabin light selector.
 - **Virgo** (Soyuz LOK) has a new console based on a reconstruction of the 7K-LOK.
