@@ -3,8 +3,9 @@
 ## [Unreleased]
 
 ### Tantares and Virgo capsules
-- Cabin bags moved away from the heads of the two side crew members, and made symmetrical.
-- The VZOR forward view is no longer upside down: the hull is now at the top of the screen.
+- Cabin bags moved away from the heads of the two side crew members, and made symmetrical; the bag behind the commander's seat is gone.
+- The VZOR forward and nadir views are no longer upside down: the hull is now at the top of the screen.
+- The VZOR forward view is narrower (30°) and aimed like the periscope's default 10° head, so the orbital module covers less of the screen.
 
 ## 1.0.0
 
