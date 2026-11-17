@@ -29,6 +29,7 @@ See the full list in the forum thread or in `GameData/TantaresIVAExpansion/patch
 
 **Optional:**
 - [MechJeb 2](https://github.com/MuMech/MechJeb2/releases) (for the autopilot buttons on the consoles)
+- [HullcamVDS Continued](https://github.com/linuxgurugamer/HullcamVDSContinued/releases) (docking camera on the Tantares docking ports)
 
 **Optional (for Mir/ROS modules):**
 - [HabTech2](https://github.com/benjee10/HabTech2/releases)
