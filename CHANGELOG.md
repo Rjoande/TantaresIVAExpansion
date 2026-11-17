@@ -7,6 +7,14 @@
 - The VZOR forward and nadir views are no longer upside down: the hull is now at the top of the screen.
 - The VZOR forward view is narrower (30°) and aimed like the periscope's default 10° head, so the orbital module covers less of the screen.
 
+### Hatches
+- With FreeIVA, all IVAs use the FreeIVA round hatch (high-resolution texture, opening animation, blocked look when nothing is attached) instead of the low-resolution Tantares hatch.
+- Without FreeIVA, the IVAs look like the original Tantares ones: hatches painted on the cabin, end caps in the Progress modules (no more hatch and end cap overlapping).
+- Soyuz orbital modules use the FreeIVA shell made for their hatches, so the passage to the neighbouring parts lines up.
+
+### Parts and patches
+- With HullCameraVDS, the Tantares docking ports get a docking camera (male ports: past the probe tip, like the MAS camera).
+
 ## 1.0.0
 
 ### Tantares and Virgo capsules
