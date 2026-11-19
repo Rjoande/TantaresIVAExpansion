@@ -15,7 +15,8 @@ REQUIREMENTS
 Tantares, ASET Props, MOARdV Avionics Systems, FreeIVA,
 Reviva, B9 Part Switch, Module Manager.
 
-Optional: MechJeb 2 (for the autopilot buttons on the consoles).
+Optional: MechJeb 2 (for the autopilot buttons on the consoles),
+HullcamVDS Continued (docking camera on the Tantares docking ports).
 
 Optional (Mir/ROS modules): HabTech2, Station Parts Expansion Redux (IVAs only).
 
