@@ -1,7 +1,5 @@
 # Changelog
 
-## [Unreleased]
-
 ## 1.0.1
 
 ### Tantares and Virgo capsules
