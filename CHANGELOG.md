@@ -9,9 +9,6 @@
 
 ### Hatches
 - With FreeIVA, all IVAs use the FreeIVA round hatch (high-resolution texture, opening animation, blocked look when nothing is attached) instead of the low-resolution Tantares hatch.
-- Without FreeIVA, the IVAs look like the original Tantares ones: hatches painted on the cabin, end caps in the Progress modules (no more hatch and end cap overlapping).
-- Soyuz orbital modules use the FreeIVA shell made for their hatches, so the passage to the neighbouring parts lines up.
-- Soyuz capsule (Sirius, Neptune): the side portrait cameras are lower, so the open hatch no longer covers them.
 
 ### Parts and patches
 - With HullCameraVDS, the Tantares docking ports get a docking camera (male ports: past the probe tip, like the MAS camera).
